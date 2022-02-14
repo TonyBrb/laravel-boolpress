@@ -26,7 +26,7 @@
 
 <script>
 
-import PostItem from './partials/PostItem.vue';
+import PostItem from '../partials/PostItem.vue';
 
 export default {
   name: 'Posts',
